@@ -1,45 +1,45 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: #333; /* Dark gray background for the body */
+    color: white; /* White text color for the body */
 }
 
 a {
-    color: #1e90ff;
+    color: #1e90ff; /* Dodger blue color for links */
 }
 
 a:hover {
-    color: #ff4500;
+    color: #ff4500; /* Orange red color for hovered links */
 }
 
 .navbar, .wy-side-nav-search, .wy-nav-side, .wy-nav-content-wrap {
-    background-color: black;
+    background-color: black; /* Black background for navbar and navigation elements */
 }
 
 .wy-nav-side {
-    border-right: 1px solid #444;
+    border-right: 1px solid #444; /* Dark gray border for the side navigation */
 }
 
 .wy-nav-content {
-    background-color: black;
-    color: white;
+    background-color: black; /* Black background for the main content area */
+    color: white; /* White text color for the main content area */
 }
 
 .wy-nav-content a {
-    color: #1e90ff;
+    color: #1e90ff; /* Dodger blue color for links in the main content area */
 }
 
 .wy-nav-content a:hover {
-    color: #ff4500;
+    color: #ff4500; /* Orange red color for hovered links in the main content area */
 }
 
 .wy-nav-side a {
-    color: #1e90ff;
+    color: #d3d3d3; /* Light gray color for links in the side navigation */
 }
 
 .wy-nav-side a:hover {
-    color: #ff4500;
+    color: #ff4500; /* Orange red color for hovered links in the side navigation */
 }
 
 .wy-nav-side .current a {
-    color: #ff4500;
+    color: #ff4500; /* Orange red color for the current link in the side navigation */
 }
