@@ -2,7 +2,8 @@
 
 The Global Glacier Evolution Model is an IDL package which allows to model the evolution of all 200,000 glaciers on Earth outside the ice sheets. 
 The model is forced by monthly temperature and precipitation from 14 GCMs and three emission scenarios. In contrast to previous global-scale glacier models, 
-GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers. To get started, please check out this [Introduction](00.-Introduction.md) of the model.
+GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers. To get started, please check out this [Introduction](00.-Introduction.md) of the model, 
+which includes a [schematic overview](00.-Introduction.md#schematic-overview).
 
 ![GloGEM logo](images/GloGEM_logo.png)
 
@@ -27,6 +28,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Introduction
+:titlesonly:
 
 00.-Introduction.md
 ```
@@ -34,6 +36,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Input Data
+:titlesonly:
 
 02.-Input-data.md
 ```
@@ -41,6 +44,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Contribution Guidelines
+:titlesonly:
 
 03.-Contribution-guidelines.md
 ```
@@ -48,6 +52,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Git Workflow
+:titlesonly:
 
 04.-Git-workflow.md
 ```
@@ -55,6 +60,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Mass Balance Model
+:titlesonly:
 
 05.-Mass-balance-model.md
 ```
@@ -62,6 +68,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Debris Evolution Model
+:titlesonly:
 
 06.-Debris-evo-model.md
 ```
@@ -69,6 +76,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Calving Model
+:titlesonly:
 
 07.-Calving-model.md
 ```
@@ -76,6 +84,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Glacier Retreat Model
+:titlesonly:
 
 13.-Glacier-retreat-model.md
 ```
@@ -83,6 +92,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Writing of the Output
+:titlesonly:
 
 14.-Writing-of-the-output.md
 ```
@@ -90,6 +100,7 @@ basin flows towards a single glacier terminus.
 ```{toctree}
 :maxdepth: 2
 :caption: Procedure and Plotting
+:titlesonly:
 
 15.-Procedure-and-plotting.md
 ```
