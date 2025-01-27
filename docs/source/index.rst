@@ -8,7 +8,7 @@ GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers
 .. image:: /images/GloGEM_logo.png
    :alt: GloGEM logo
    :align: center
-   :width: 200px
+   :width: 600px
 
 Cite GloGEM
 -----------
