@@ -24,13 +24,17 @@ basin flows towards a single glacier terminus.
 
 ## Contents
 
-- [Introduction](00.-Introduction.md)
-- [Input Data](02.-Input-data.md)
-- [Contribution Guidelines](03.-Contribution-guidelines.md)
-- [Git Workflow](04.-Git-workflow.md)
-- [Mass Balance Model](05.-Mass-balance-model.md)
-- [Debris Evolution Model](06.-Debris-evo-model.md)
-- [Calving Model](07.-Calving-model.md)
-- [Glacier Retreat Model](13.-Glacier-retreat-model.md)
-- [Writing of the Output](14.-Writing-of-the-output.md)
-- [Procedure and Plotting](15.-Procedure-and-plotting.md)
+```{toctree}
+:maxdepth: 2
+:caption: Introduction
+
+00.-Introduction.md
+02.-Input-data.md
+03.-Contribution-guidelines.md
+04.-Git-workflow.md
+05.-Mass-balance-model.md
+06.-Debris-evo-model.md
+07.-Calving-model.md
+13.-Glacier-retreat-model.md
+14.-Writing-of-the-output.md
+15.-Procedure-and-plotting.md
