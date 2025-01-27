@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'GloGEM-documentation'
+project = 'GloGEM-doc'
 copyright = '2025, Beer'
 author = 'Beer'
 
