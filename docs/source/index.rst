@@ -5,8 +5,9 @@ The Global Glacier Evolution Model is an IDL package which allows to model the e
 The model is forced by monthly temperature and precipitation from 14 GCMs and three emission scenarios. In contrast to previous global-scale glacier models, 
 GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers. To get started, please check out this `schematic overview <01.-Introduction.md>`_ of the model.
 
-.. image:: GloGEM-documentation/GloGEM_logo.png
-   :alt: GloGEM Logo
+.. image:: GloGEM_logo.png
+   :align: center
+   :width: 200px
 
 Cite GloGEM
 -----------
@@ -28,6 +29,11 @@ basin flows towards a single glacier terminus.
 
 Contents
 --------
+.. toctree::
+   :maxdepth: 2
+   :caption: Introduction
+
+   01.-Introduction.md
 
 .. toctree::
    :maxdepth: 2
