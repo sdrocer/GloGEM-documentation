@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #1e90ff;
+}
+
+a:hover {
+    color: #ff4500;
+}
+
+.navbar, .wy-side-nav-search, .wy-nav-side, .wy-nav-content-wrap {
+    background-color: black;
+}
+
+.wy-nav-side {
+    border-right: 1px solid #444;
+}
+
+.wy-nav-content {
+    background-color: black;
+    color: white;
+}
+
+.wy-nav-content a {
+    color: #1e90ff;
+}
+
+.wy-nav-content a:hover {
+    color: #ff4500;
+}
+
+.wy-nav-side a {
+    color: #1e90ff;
+}
+
+.wy-nav-side a:hover {
+    color: #ff4500;
+}
+
+.wy-nav-side .current a {
+    color: #ff4500;
+}
