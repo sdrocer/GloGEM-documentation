@@ -15,78 +15,67 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Introduction
-   :hidden:
 
-   Introduction <00.-Introduction.md>
+   00.-Introduction.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Overview
-   :hidden:
 
-   Overview <01.-Overview.md>
+   01.-Overview.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Input Data
-   :hidden:
 
-   Input Data <02.-Input-data.md>
+   02.-Input-data.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contribution Guidelines
-   :hidden:
 
-   Contribution Guidelines <03.-Contribution-guidelines.md>
+   03.-Contribution-guidelines.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Git Workflow
-   :hidden:
 
-   Git Workflow <04.-Git-workflow.md>
+   04.-Git-workflow.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Mass Balance Model
-   :hidden:
 
-   Mass Balance Model <05.-Mass-balance-model.md>
+   05.-Mass-balance-model.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Debris Evolution Model
-   :hidden:
 
-   Debris Evolution Model <06.-Debris-evo-model.md>
+   06.-Debris-evo-model.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Calving Model
-   :hidden:
 
-   Calving Model <07.-Calving-model.md>
+   07.-Calving-model.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Glacier Retreat Model
-   :hidden:
 
-   Glacier Retreat Model <13.-Glacier-retreat-model.md>
+   13.-Glacier-retreat-model.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Writing of the Output
-   :hidden:
 
-   Writing of the Output <14.-Writing-of-the-output.md>
+   14.-Writing-of-the-output.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Procedure and Plotting
-   :hidden:
 
-   Procedure and Plotting <15.-Procedure---Plotting.md>
+   15.-Procedure---Plotting.md
