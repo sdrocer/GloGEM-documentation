@@ -35,3 +35,6 @@ html_static_path = ['_static', '../images']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Set the master doc to index.md
+master_doc = 'index'
