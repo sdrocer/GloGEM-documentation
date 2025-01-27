@@ -33,7 +33,7 @@ Contents
    :maxdepth: 2
    :caption: Introduction
 
-   01.-Introduction.md
+   00.-Introduction.md
 
 .. toctree::
    :maxdepth: 2
