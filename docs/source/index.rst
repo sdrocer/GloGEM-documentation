@@ -10,9 +10,6 @@ GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers
    :align: center
    :width: 200px
 
-<a href="https://doi.org/10.1038/s41597-022-01291-9" target="_blank"><img src="https://github.com/3dgeo-heidelberg/py4dgeo/blob/main/doc/img/data_vos_2022_kijkduin.png?raw=true" alt="" width="450" /></a>
-
-
 Cite GloGEM
 -----------
 
