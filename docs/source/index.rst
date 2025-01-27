@@ -16,36 +16,15 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction
 
-   00.-Introduction.md
-   :caption: Overview
-
-   01.-Overview.md
-   :caption: Input Data
-
-   02.-Input-data.md
-   :caption: Contribution Guidelines
-
-   03.-Contribution-guidelines.md
-   :caption: Git Workflow
-
-   04.-Git-workflow.md
-   :caption: Mass Balance Model
-
-   05.-Mass-balance-model.md
-   :caption: Debris Evolution Model
-
-   06.-Debris-evo-model.md
-   :caption: Calving Model
-
-   07.-Calving-model.md
-   :caption: Glacier Retreat Model
-
-   13.-Glacier-retreat-model.md
-   :caption: Writing of the Output
-
-   14.-Writing-of-the-output.md
-   :caption: Procedure and Plotting
-
-   15.-Procedure---Plotting.md
+   Introduction <00.-Introduction.md>
+   Overview <01.-Overview.md>
+   Input Data <02.-Input-data.md>
+   Contribution Guidelines <03.-Contribution-guidelines.md>
+   Git Workflow <04.-Git-workflow.md>
+   Mass Balance Model <05.-Mass-balance-model.md>
+   Debris Evolution Model <06.-Debris-evo-model.md>
+   Calving Model <07.-Calving-model.md>
+   Glacier Retreat Model <13.-Glacier-retreat-model.md>
+   Writing of the Output <14.-Writing-of-the-output.md>
+   Procedure and Plotting <15.-Procedure---Plotting.md>
