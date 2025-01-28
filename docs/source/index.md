@@ -33,7 +33,7 @@ Potential-solar-radiation.md
 Mass-balance-model.md
 Debris-evolution-model.md
 Calving-model.md
-Glacier-retreat-model.md
+Glacier-retreat-model-(VAS).md
 Plotting.md
 ```
 

@@ -37,7 +37,6 @@ html_logo = 'images/GloGEM_header.png' # Path to the logo image
 html_theme_options = {
     "repository_url": "https://github.com/sdrocer/GloGEM-documentation",
     "use_repository_button": True,
-    "logo_only": True, # Use only the logo in the sidebar header
 }
 
 # Set the Pygments style
