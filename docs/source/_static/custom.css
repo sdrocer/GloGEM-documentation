@@ -60,10 +60,20 @@ a:hover {
 table {
     background-color: #2A303C; /* Darker gray background for tables */
     border: 1px solid white; /* White border for tables */
+    color: #d3d3d3; /* Light gray text color for tables */
 }
 
 th, td {
     border: 1px solid white; /* White border for table cells */
+    background-color: #555; /* Consistent light gray background for table cells */
+}
+
+thead th {
+    background-color: #555; /* Consistent light gray background for table headers */
+}
+
+tbody tr {
+    background-color: #555; /* Consistent light gray background for table rows */
 }
 
 .admonition {
