@@ -23,8 +23,6 @@ basin flows towards a single glacier terminus.
 > 
 > This project is under active development.
 
-## Contents
-
 ```{toctree}
 :maxdepth: 2
 :caption: Introduction
