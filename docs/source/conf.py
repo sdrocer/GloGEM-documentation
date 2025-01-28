@@ -36,6 +36,9 @@ html_static_path = ['_static', '../images']
 def setup(app):
     app.add_css_file('custom.css') # add custom CSS file
 
+# Set the Pygments style
+pygments_style = 'monokai' # Set the Pygments syntax highlighting style
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
