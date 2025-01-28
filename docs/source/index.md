@@ -30,7 +30,6 @@ This project is under active development.
 01.-Input-data.md
 03.-Downscale-GCM.md
 04.-Potential-solar-radiation.md
-05.-Reading-of-input-data.md
 06.-Mass-balance-model.md
 07.-Debris-evolution-model.md
 08.-Calving-model.md

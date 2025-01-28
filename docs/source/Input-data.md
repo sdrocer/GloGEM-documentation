@@ -32,7 +32,7 @@ _**'/scratch_net/iceberg_second/mhuss/global_thickness/rgi60/bands_HF2012/'**_
 
 **_'/scratch_net/iceberg_second/mhuss/global_thickness/rgi60/debris/'_**
 
-# Hypsometry
+## Hypsometry
 
 The hypsometry file is stored in the same file as the ice thickness of the consensus estimate. 
 
