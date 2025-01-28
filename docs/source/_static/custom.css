@@ -1,14 +1,14 @@
 body {
-    background-color: #333; /* Dark gray background for the body */
+    background-color: #444; /* Slightly brighter dark gray background for the body */
     color: white; /* White text color for the body */
 }
 
 a {
-    color: #1e90ff; /* Dodger blue color for links */
+    color: #d3d3d3; /* Dodger blue color for links */
 }
 
 a:hover {
-    color: #ff4500; /* Orange red color for hovered links */
+    color: orange; /* Orange color for hovered links */
 }
 
 .navbar, .wy-side-nav-search, .wy-nav-side, .wy-nav-content-wrap {
@@ -21,7 +21,7 @@ a:hover {
 
 .wy-nav-content {
     background-color: black; /* Black background for the main content area */
-    color: white; /* White text color for the main content area */
+    color: #d3d3d3; /* Light gray text color for the main content area */
 }
 
 .wy-nav-content a {
@@ -29,7 +29,7 @@ a:hover {
 }
 
 .wy-nav-content a:hover {
-    color: #ff4500; /* Orange red color for hovered links in the main content area */
+    color: orange; /* Orange color for hovered links in the main content area */
 }
 
 .wy-nav-side a {
@@ -37,9 +37,39 @@ a:hover {
 }
 
 .wy-nav-side a:hover {
-    color: #ff4500; /* Orange red color for hovered links in the side navigation */
+    color: orange; /* Orange color for hovered links in the side navigation */
 }
 
 .wy-nav-side .current a {
-    color: #ff4500; /* Orange red color for the current link in the side navigation */
+    color: orange; /* Orange color for the current link in the side navigation */
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Custom styles for code blocks and other elements */
+.highlight, .literal-block, .code, pre {
+    background-color: #555; /* Slightly brighter dark gray background for code blocks */
+    color: #d3d3d3; /* Light gray text color for code blocks */
+    border: 1px solid #666; /* Darker gray border for code blocks */
+}
+
+table {
+    background-color: #555; /* Slightly brighter dark gray background for tables */
+    color: #d3d3d3; /* Light gray text color for tables */
+    border: 1px solid #666; /* Darker gray border for tables */
+}
+
+th, td {
+    border: 1px solid #666; /* Darker gray border for table cells */
+}
+
+.admonition {
+    background-color: #555; /* Slightly brighter dark gray background for admonitions */
+    color: #d3d3d3; /* Light gray text color for admonitions */
+    border: 1px solid #666; /* Darker gray border for admonitions */
 }
