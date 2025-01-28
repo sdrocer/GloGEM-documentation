@@ -34,7 +34,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_theme_options = {
-    "repository_url": "https://github.com/your-repo",
+    "repository_url": "https://github.com/sdrocer/GloGEM-documentation.git",
     "use_repository_button": True,
 }
 
