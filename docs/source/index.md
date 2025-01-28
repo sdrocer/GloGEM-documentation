@@ -5,8 +5,6 @@ The model is forced by monthly temperature and precipitation from 14 GCMs and th
 GloGEM includes mass loss due to frontal ablation of marine-terminating glaciers. To get started, please check out this [Introduction](00.-Introduction.md) of the model, 
 which includes a [schematic overview](00.-Introduction.md#schematic-overview).
 
-![GloGEM logo](images/GloGEM_logo.png)
-
 ## Cite GloGEM
 
 If you want to refer to GloGEM in your publications or presentations, please refer to:
