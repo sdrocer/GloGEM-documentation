@@ -54,22 +54,19 @@ a:hover {
 /* Custom styles for code blocks and other elements */
 .highlight, .literal-block, .code, pre {
     background-color: #2A303C; /* Darker gray background for code blocks */
-    color: #d3d3d3; /* Light gray text color for code blocks */
-    border: 1px solid #d3d3d3; /* Light gray border for code blocks */
+    border: 1px solid white; /* White border for code blocks */
 }
 
 table {
     background-color: #2A303C; /* Darker gray background for tables */
-    color: #d3d3d3; /* Light gray text color for tables */
-    border: 1px solid #d3d3d3; /* Light gray border for tables */
+    border: 1px solid white; /* White border for tables */
 }
 
 th, td {
-    border: 1px solid #d3d3d3; /* Light gray border for table cells */
+    border: 1px solid white; /* White border for table cells */
 }
 
 .admonition {
     background-color: #2A303C; /* Darker gray background for admonitions */
-    color: #d3d3d3; /* Light gray text color for admonitions */
-    border: 1px solid #d3d3d3; /* Light gray border for admonitions */
+    border: 1px solid white; /* White border for admonitions */
 }
