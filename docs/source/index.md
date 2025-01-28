@@ -22,97 +22,37 @@ This project is under active development.
 ```
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 2
 :titlesonly:
-:caption: Introduction
+:caption: Overview
 
 00.-Introduction.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Input Data
-
 01.-Input-data.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Contribution
-
-02.-Contributing.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Downscale GCM
-
 03.-Downscale-GCM.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Potential Solar Radiation
-
 04.-Potential-solar-radiation.md
+05.-Reading-of-input-data.md
+06.-Mass-balance-model.md
+07.-Debris-evolution-model.md
+08.-Calving-model.md
+09.-Glacier-retreat-model.md
+11.-Plotting.md
 ```
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 2
 :titlesonly:
-:caption: Reading of Input Data
+:caption: Reading & Writing Procedures
 
 05.-Reading-of-input-data.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Mass Balance Model
-
-06.-Mass-balance-model.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Debris Evolution Model
-
-07.-Debris-evolution-model.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Calving Model
-
-08.-Calving-model.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Glacier Retreat Model
-
-09.-Glacier-retreat-model.md
-```
-
-```{toctree}
-:maxdepth: 3
-:titlesonly:
-:caption: Writing of the Output
-
 10.-Writing-of-the-output.md
 ```
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 2
 :titlesonly:
-:caption: Plotting
+:caption: Contribution
 
-11.-Plotting.md
+02.-Contributing.md
+Core-GloGEM-developer-meeting.md
+Git-workflow.md
 ```
