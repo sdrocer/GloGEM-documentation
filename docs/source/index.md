@@ -22,84 +22,96 @@ This project is under active development.
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Introduction
 
 00.-Introduction.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Input Data
 
 01.-Input-data.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Contribution
 
 02.-Contributing.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Downscale GCM
 
 03.-Downscale-GCM.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Potential Solar Radiation
 
 04.-Potential-solar-radiation.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Reading of Input Data
 
 05.-Reading-of-input-data.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Mass Balance Model
 
 06.-Mass-balance-model.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Debris Evolution Model
 
 07.-Debris-evolution-model.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Calving Model
 
 08.-Calving-model.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Glacier Retreat Model
 
 09.-Glacier-retreat-model.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Writing of the Output
 
 10.-Writing-of-the-output.md
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
+:titlesonly:
 :caption: Plotting
 
 11.-Plotting.md
