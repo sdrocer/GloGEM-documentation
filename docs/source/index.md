@@ -17,9 +17,9 @@ GloGEM is a “glacier centric model”, which means that it runs for each glaci
 it relies on the glacier inventory to properly separate the individual glacier entities by the ice divides, ensuring that all ice in a glacier 
 basin flows towards a single glacier terminus.
 
-> **Note:**
-> 
-> This project is under active development.
+```{note}
+This project is under active development.
+```
 
 ```{toctree}
 :maxdepth: 2
