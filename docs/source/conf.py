@@ -32,6 +32,14 @@ templates_path = ['_templates'] # Add templates path in order to use custom temp
 
 html_theme = 'sphinx_book_theme' # Set the HTML theme to use
 
+html_logo = '_static/logo.png' # Path to the logo image
+
+html_theme_options = {
+    "repository_url": "https://github.com/your-username/your-repo",
+    "use_repository_button": True,
+    "logo_only": True, # Use only the logo in the sidebar header
+}
+
 # def setup(app):
 #     app.add_css_file('custom.css') # add custom CSS file
     # app.add_js_file('custom.js') # add custom JavaScript file
