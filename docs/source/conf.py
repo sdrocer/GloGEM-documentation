@@ -30,13 +30,7 @@ templates_path = ['_templates'] # Add templates path in order to use custom temp
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_book_theme'
-html_static_path = ['_static']
-
-html_theme_options = {
-    "repository_url": "https://github.com/sdrocer/GloGEM-documentation.git",
-    "use_repository_button": True,
-}
+html_theme = 'sphinx_book_theme' # Set the HTML theme to use
 
 # def setup(app):
 #     app.add_css_file('custom.css') # add custom CSS file
