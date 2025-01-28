@@ -35,6 +35,7 @@ html_static_path = ['_static']
 
 def setup(app):
     app.add_css_file('custom.css') # add custom CSS file
+    app.add_js_file('custom.js') # add custom JavaScript file
 
 # Set the Pygments style
 pygments_style = 'monokai' # Set the Pygments syntax highlighting style
