@@ -53,11 +53,10 @@ Once your feature/development branch is accepted into upstream, you’ll probabl
 $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
-$ git branch -d <new_branche>
+$ git branch -d <new_branch>
 ```
 
 The branch will still exist on GitHub, so to delete it there too:
 ```
-$ git push origin --delete <new_branche>
+$ git push origin --delete <new_branch>
 ```
-

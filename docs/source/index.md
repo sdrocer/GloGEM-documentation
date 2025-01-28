@@ -26,15 +26,15 @@ This project is under active development.
 :titlesonly:
 :caption: Overview
 
-00.-Introduction.md
-01.-Input-data.md
-03.-Downscale-GCM.md
-04.-Potential-solar-radiation.md
-06.-Mass-balance-model.md
-07.-Debris-evolution-model.md
-08.-Calving-model.md
-09.-Glacier-retreat-model.md
-11.-Plotting.md
+Introduction.md
+Input-data.md
+Downscale-GCM.md
+Potential-solar-radiation.md
+Mass-balance-model.md
+Debris-evolution-model.md
+Calving-model.md
+Glacier-retreat-model.md
+Plotting.md
 ```
 
 ```{toctree}
@@ -42,8 +42,8 @@ This project is under active development.
 :titlesonly:
 :caption: Reading & Writing Procedures
 
-05.-Reading-of-input-data.md
-10.-Writing-of-the-output.md
+Reading-of-input-data.md
+Writing-of-the-output.md
 ```
 
 ```{toctree}
@@ -51,7 +51,7 @@ This project is under active development.
 :titlesonly:
 :caption: Contribution
 
-02.-Contributing.md
+Contribution.md
 Core-GloGEM-developer-meeting.md
 Git-workflow.md
 ```
