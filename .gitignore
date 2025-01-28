@@ -154,3 +154,6 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+# Mac OS only for iCloud file tracking
+.DS_Store
