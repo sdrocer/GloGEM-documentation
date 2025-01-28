@@ -70,3 +70,12 @@ th, td {
     background-color: #2A303C; /* Darker gray background for admonitions */
     border: 1px solid white; /* White border for admonitions */
 }
+
+/* Ensure consistent background color for table rows */
+table tr:nth-child(odd) {
+    background-color: #555; /* Light gray background for odd rows */
+}
+
+table tr:nth-child(even) {
+    background-color: #555; /* Light gray background for even rows */
+}
