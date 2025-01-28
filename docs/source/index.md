@@ -36,23 +36,39 @@ basin flows towards a single glacier terminus.
 :caption: Input Data
 :titlesonly:
 
-02.-Input-data.md
+01.-Input-data.md
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contribution Guidelines
+:caption: Contribution
 :titlesonly:
 
-03.-Contribution-guidelines.md
+02.-Contributing.md
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Git Workflow
+:caption: Downscale GCM
 :titlesonly:
 
-04.-Git-workflow.md
+03.-Downscale-GCM.md
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Potential Solar Radiation
+:titlesonly:
+
+04.-Potential-solar-radiation.md
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Reading of Input Data
+:titlesonly:
+
+05.-Reading-of-input-data.md
 ```
 
 ```{toctree}
@@ -60,7 +76,7 @@ basin flows towards a single glacier terminus.
 :caption: Mass Balance Model
 :titlesonly:
 
-05.-Mass-balance-model.md
+06.-Mass-balance-model.md
 ```
 
 ```{toctree}
@@ -68,7 +84,7 @@ basin flows towards a single glacier terminus.
 :caption: Debris Evolution Model
 :titlesonly:
 
-06.-Debris-evo-model.md
+07.-Debris-evolution-model.md
 ```
 
 ```{toctree}
@@ -76,7 +92,7 @@ basin flows towards a single glacier terminus.
 :caption: Calving Model
 :titlesonly:
 
-07.-Calving-model.md
+08.-Calving-model.md
 ```
 
 ```{toctree}
@@ -84,7 +100,7 @@ basin flows towards a single glacier terminus.
 :caption: Glacier Retreat Model
 :titlesonly:
 
-13.-Glacier-retreat-model.md
+09.-Glacier-retreat-model.md
 ```
 
 ```{toctree}
@@ -92,13 +108,13 @@ basin flows towards a single glacier terminus.
 :caption: Writing of the Output
 :titlesonly:
 
-14.-Writing-of-the-output.md
+10.-Writing-of-the-output.md
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Procedure and Plotting
+:caption: Plotting
 :titlesonly:
 
-15.-Procedure-and-plotting.md
+11.-Plotting.md
 ```
