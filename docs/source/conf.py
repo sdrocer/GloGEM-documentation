@@ -30,12 +30,17 @@ templates_path = ['_templates'] # Add templates path in order to use custom temp
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
-def setup(app):
-    app.add_css_file('custom.css') # add custom CSS file
-    app.add_js_file('custom.js') # add custom JavaScript file
+html_theme_options = {
+    "repository_url": "https://github.com/your-repo",
+    "use_repository_button": True,
+}
+
+# def setup(app):
+#     app.add_css_file('custom.css') # add custom CSS file
+    # app.add_js_file('custom.js') # add custom JavaScript file
 
 # Set the Pygments style
 pygments_style = 'monokai' # Set the Pygments syntax highlighting style
