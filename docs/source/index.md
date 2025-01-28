@@ -24,7 +24,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Introduction
-:titlesonly:
 
 00.-Introduction.md
 ```
@@ -32,7 +31,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Input Data
-:titlesonly:
 
 01.-Input-data.md
 ```
@@ -40,7 +38,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Contribution
-:titlesonly:
 
 02.-Contributing.md
 ```
@@ -48,7 +45,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Downscale GCM
-:titlesonly:
 
 03.-Downscale-GCM.md
 ```
@@ -56,7 +52,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Potential Solar Radiation
-:titlesonly:
 
 04.-Potential-solar-radiation.md
 ```
@@ -64,7 +59,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Reading of Input Data
-:titlesonly:
 
 05.-Reading-of-input-data.md
 ```
@@ -72,7 +66,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Mass Balance Model
-:titlesonly:
 
 06.-Mass-balance-model.md
 ```
@@ -80,7 +73,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Debris Evolution Model
-:titlesonly:
 
 07.-Debris-evolution-model.md
 ```
@@ -88,7 +80,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Calving Model
-:titlesonly:
 
 08.-Calving-model.md
 ```
@@ -96,7 +87,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Glacier Retreat Model
-:titlesonly:
 
 09.-Glacier-retreat-model.md
 ```
@@ -104,7 +94,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Writing of the Output
-:titlesonly:
 
 10.-Writing-of-the-output.md
 ```
@@ -112,7 +101,6 @@ This project is under active development.
 ```{toctree}
 :maxdepth: 2
 :caption: Plotting
-:titlesonly:
 
 11.-Plotting.md
 ```
